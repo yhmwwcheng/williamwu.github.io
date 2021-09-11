@@ -1,0 +1,450 @@
+
+<!--
+ * @Author: yhmwwcheng
+ * @LastEditTime: 2021-09-11
+ -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3EFCYZKM9Y"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-3EFCYZKM9Y');
+  </script>
+
+
+
+  <!-- <meta name=viewport content="width=800"> -->
+  <meta name=viewport content="width=device-width">
+  <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
+  <style type="text/css">
+    /* Color scheme stolen from Sergey Karayev */
+
+    a {
+      color: #1772d0;
+      /* color: #07889b; */
+      text-decoration: none;
+    }
+
+    a:focus,
+    a:hover {
+      color: #e37222;
+      /* #f09228; */
+      text-decoration: none;
+    }
+
+    body,
+    td,
+    th,
+    tr,
+    p,
+    a {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 16px;
+    }
+
+    p.introduction {
+      line-height: 1.8;
+    }
+
+    strong {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 16px;
+    }
+
+    heading {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 22px;
+      color: #e37222;
+    }
+
+    heading2 {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 20px;
+    }
+
+    papertitle {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 16px;
+      font-weight: bold;
+    }
+
+    name {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 32px;
+    }
+
+    .footer {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 14px;
+      opacity: 0.75;
+      color: #777;
+    }
+
+    .one {
+      width: 160px;
+      height: 160px;
+      position: relative;
+    }
+
+    .two {
+      width: 160px;
+      height: 160px;
+      position: absolute;
+      transition: opacity .2s ease-in-out;
+      -moz-transition: opacity .2s ease-in-out;
+      -webkit-transition: opacity .2s ease-in-out;
+    }
+
+    .fade {
+      transition: opacity .2s ease-in-out;
+      -moz-transition: opacity .2s ease-in-out;
+      -webkit-transition: opacity .2s ease-in-out;
+    }
+
+    span {
+      line-height: 1.5;
+    }
+
+    span.highlight {
+      background-color: #ffffd0;
+    }
+
+    span.artifact {
+      color: #6cb41b;
+      padding: 1px;
+    }
+
+    span.underline {
+      border-bottom: 1px solid black;
+      padding-bottom: 1px;
+    }
+
+    span.tldr {
+      color: #555555;
+    }
+
+    em.highlight {
+      color: #e37222;
+    }
+  </style>
+  <link rel="icon" type="image/png" href="images/icon.png">
+  <title>Qinghao Hu, Ph.D. Student at NTU</title>
+  <meta name="description" content="I am a Ph.D. student of Computer Science at NTU.">
+  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet'
+    type='text/css'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/academicons.min.css">
+</head>
+
+<body>
+  <table width="960" border="0" align="center" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <!-- Intro Begin -->
+        <table width="100%" align="left" border="0" cellspacing="0" cellpadding="12" style="table-layout:fixed;">
+          <colgroup>
+            <col span="1" style="width: 20%;">
+            <col span="1" style="width: 80%;">
+          </colgroup>
+          <tr>
+            <td valign="middle">
+              <p align=middle>
+                <img src="images/qinghao.jpg" height="240px">
+              </p>
+              <p align=middle>
+                <!-- <a href="data/Resume_LiminYang.pdf">Resume</a> &nbsp;/&nbsp; -->
+                <a href="data/HuQinghao_Tony_CV.pdf"> <i class="ai ai-cv-square ai-2x"></i> </a> &nbsp;
+                <a href="https://github.com/Tonyhao96"> <i class="fa fa-github-square fa-2x"></i> </a> &nbsp;
+                <!-- <a href="https://tonyhao.xyz"> <i class="ai ai-google-scholar-square ai-2x"></i> </a> &nbsp; -->
+                <a href="https://www.linkedin.com/in/qinghao-hu-565169129/"> <i class="fa fa-linkedin-square fa-2x"></i>
+                </a>
+                &nbsp;
+                <a href="mailto: qinghao.hu@ntu.edu.sg"> <i class="fa fa-envelope-square fa-2x"></i> </a>
+              </p>
+            </td>
+            <td valign="middle">
+              <p align="left">
+                <name>Wancheng Wu &nbsp; (吴晚成) </name>
+              </p>
+              <p class="introduction">
+                 I am a graduated master student from National University of Singapore where I majored in Electrical Engineering, <a
+                  href="https://www.ntu.edu.sg">Nanyang Technological University</a>, Singapore.<br>
+                My academic supervisors are <a href="https://personal.ntu.edu.sg/tianwei.zhang/">Prof. Tianwei Zhang</a>
+                and
+                <a href="https://www3.ntu.edu.sg/home/ygwen/">Prof. Yonggang Wen</a>. <br>
+
+                <br>
+                <b>Email:</b><br>
+                qinghao.hu@ntu.edu.sg<br>
+                <b>Address:</b><br>
+                S-Lab for Advanced Intelligence<br>
+                ABN-02b-11, 61 Nanyang Avenue, Singapore 637335<br>
+                <!-- I focus on <em class="highlight">machine learning security, measurement, and explainable AI. </em> <br> -->
+              </p>
+
+              <!-- <hr style="height:5px; visibility:hidden;" />
+
+              <p class="introduction">Contact: liminy2@illinois.edu <br>
+                Office: Room 4111, Thomas M. Siebel Center, Urbana, IL 61801 </p> -->
+            </td>
+          </tr>
+        </table>
+        <!-- Intro End -->
+
+        <!-- News Begin -->
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td>
+              <heading>News</heading>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" align="center" border="0" cellpadding="10" style="table-layout:fixed;">
+          <colgroup>
+            <col span="1" style="width: 20%;">
+            <col span="1" style="width: 80%;">
+          </colgroup>
+          <tr>
+            <td valign="center"> June 22, 2021 </td>
+            <td valign="center">
+              Our SC '21 paper got accepted! Thanks for everyone who helped me!
+            </td>
+          </tr>
+        </table>
+        <!-- News End -->
+
+        <!-- Research Interest Begin -->
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td>
+              <heading>Research Interest</heading>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" align="center" border="0" cellpadding="10" style="table-layout:fixed;">
+          <colgroup>
+            <col span="1" style="width: 20%;">
+            <col span="1" style="width: 80%;">
+          </colgroup>
+          <tr>
+            <td valign="center"> Deep Learning System </td>
+            <td valign="center">
+              Large-scale Cluster Resource Management and Scheduling
+            </td>
+          </tr>
+          <tr>
+            <td valign="center"> Distributed Computing </td>
+            <td valign="center">
+              Automated Deep Learning in Large-scale
+            </td>
+          </tr>
+        </table>
+        <!-- Research Interest End -->
+
+        <!-- Education Begin -->
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td>
+              <heading>Education</heading>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" align="center" border="0" cellpadding="10" style="table-layout:fixed;">
+          <colgroup>
+            <col span="1" style="width: 20%;">
+            <col span="1" style="width: 80%;">
+          </colgroup>
+          <tr>
+            <td valign="center"> Aug. 2020 - Now </td>
+            <td valign="center">
+              Ph. D. student in S-Lab, Nanyang Technological University, Singapore
+            </td>
+          </tr>
+          <tr>
+            <td valign="center"> Jan. 2019 - Dec. 2019 </td>
+            <td valign="center">
+              Master student in Electrical Engineering, National University of Singapore, Singapore
+            </td>
+          </tr>
+          <tr>
+            <td valign="center"> Sept. 2014 - June 2018 </td>
+            <td valign="center">
+              Bachelor student in ISEE, Zhejiang University, China
+            </td>
+          </tr>
+        </table>
+        <!-- Education End -->
+
+        <!-- Publications Begin -->
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td>
+              <heading>Publications</heading>
+              <hr style="height:2px; visibility:hidden;" />
+              <heading2>Conference Papers</heading2>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" align="center" border="0" cellpadding="10" style="table-layout:fixed;">
+          <colgroup>
+            <col span="1" style="width: 20%;">
+            <col span="1" style="width: 80%;">
+          </colgroup>
+          <tr>
+            <td valign="center">
+              <papertitle>[SC '21]</papertitle>
+            </td>
+            <td valign="center">
+              <papertitle>Characterization and Prediction of Deep Learning Workloads in Large-Scale GPU
+                Datacenters</papertitle>
+              <br>
+              <span class="underline">Qinghao Hu</span>, Peng Sun, Shengen Yan, Yonggang Wen, Tianwei Zhang<br>
+              <a href="data/SC_21.pdf">PDF</a> /
+              <a href="https://github.com/S-Lab-System-Group/HeliosData">DataSet</a> /
+              <a href="https://github.com/S-Lab-System-Group/HeliosArtifact">Code</a> <br>
+              <!-- <span class="artifact">Artifact Evaluated</span> <br> -->
+              <span class="tldr">Understanding workload characteristics can bring significant benefits for resource
+                scheduling and management in large-scale GPU datacenters. </span>
+            </td>
+          </tr>
+
+        </table>
+
+        <!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td>
+              <heading2>Journal / Workshop Papers</heading2>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" align="center" border="0" cellpadding="10" style="table-layout:fixed;">
+          <colgroup>
+            <col span="1" style="width: 20%;">
+            <col span="1" style="width: 80%;">
+          </colgroup>
+          <tr>
+            <td valign="center">
+              <em>[<a href="https://www.ieee-security.org/TC/SP2021/SPW2021/dls_website/">DLS'21</a>]</em>
+            </td>
+            <td valign="center">
+              <papertitle>BODMAS: An Open Dataset for Learning based Temporal Analysis of PE Malware</papertitle><br>
+              <span class="underline">Limin Yang</span>, Arridhana Ciptadi, Ali Ahmadzadeh, Gang Wang <br>
+              <span class="tldr">TL;DR: We collaborate with <a href="https://bluehexagon.ai" target="_blank">Blue
+                  Hexagon</a>
+                to release an open Windows PE malware dataset with timestamped metadata as well as curated malware
+                family labels. </span>
+            </td>
+          </tr>
+
+        </table> -->
+        <!-- Publications End -->
+
+        <!-- Service Begin -->
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="6">
+          <tr>
+            <td>
+              <heading>Professional Services</heading>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" align="center" border="0" cellpadding="6" style="table-layout:fixed;">
+          <colgroup>
+            <col span="1" style="width: 20%;">
+            <col span="1" style="width: 80%;">
+          </colgroup>
+          <tr>
+            <td valign="center">
+              <papertitle>[SOSP '21]</papertitle>
+            </td>
+            <td>
+              <span> <a href="https://sosp2021.mpi-sws.org/">ACM Symposium on Operating Systems
+                  Principles</a></span>, AE Committee Member
+            </td>
+          </tr>
+        </table>
+        <!-- Service End -->
+
+        <!-- Awards Begin -->
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="6">
+          <tr>
+            <td>
+              <heading>Awards</heading>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" align="center" border="0" cellpadding="6" style="table-layout:fixed;">
+          <colgroup>
+            <col span="1" style="width: 20%;">
+            <col span="1" style="width: 80%;">
+          </colgroup>
+          <tr>
+            <td valign="center"> 2018 </td>
+            <td>
+              <span> Zhejiang University Outstanding College Graduates</span>
+            </td>
+          </tr>
+          <tr>
+            <td valign="center"> 2018 </td>
+            <td>
+              <span>Best Undergraduate Thesis Award of ISEE College</span>
+            </td>
+          </tr>
+          <tr>
+            <td valign="center"> 2017 </td>
+            <td>
+              <span>"TI CUP" Electronic Design Competition The Second Prize</span>
+            </td>
+          </tr>
+          <tr>
+            <td valign="center"> 2016 </td>
+            <td>
+              <span>The National Talent Training Base The Third Prize Scholarship</span>
+            </td>
+          </tr>
+          <tr>
+            <td valign="center"> 2015 </td>
+            <td>
+              <span>Outstanding Students The Second-Class Scholarship</span>
+            </td>
+          </tr>
+        </table>
+        <!-- Awards End -->
+
+
+
+        <br>
+        <table width="100%" align="center" border="0" cellpadding="6" style="table-layout:fixed; color: #888;">
+          <colgroup>
+            <col span="1" style="width: 23%;">
+            <col span="1" style="width: 77%;">
+          </colgroup>
+          <tr>
+            <td valign="center"> Miscellaneous </td>
+            <td>
+              Personal Blog: <a href="https://blog.tonyhao.xyz" target="_blank">blog.tonyhao.xyz</a>
+            </td>
+          </tr>
+        </table>
+
+        <table width="100%" align="center" border="0" cellpadding="6">
+          <tr>
+            <td width="100%" valign="center">
+              <p class="footer">
+                Last updated: June 26, 2021
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
